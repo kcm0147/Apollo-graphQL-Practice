@@ -1,0 +1,16 @@
+{
+  "name": "apollo-graphql-practice",
+  "version": "1.0.0",
+  "description": "apollo-graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "convert-csv-to-json": "^1.3.0"
+  }
+}
